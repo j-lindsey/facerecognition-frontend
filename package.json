@@ -17,7 +17,6 @@
     "react-particles-js": "^3.3.0",
     "react-scripts": "3.4.3",
     "react-tilt": "^0.1.4",
-    "server": "file:server",
     "tachyons": "^4.12.0"
   },
   "scripts": {
